@@ -8,7 +8,6 @@
         "prevPrice": "200",
         "newPrice": "243",
         "company": "Ashley",
-        "color": "White",
         "category": "Chair",
         "id": 1
       },
@@ -20,7 +19,6 @@
         "prevPrice": "40",
         "newPrice": "68",
         "company": "Aaron",
-        "color": "Red",
         "category": "Dress",
         "id": 2
       },
@@ -32,7 +30,6 @@
         "prevPrice": "650",
         "newPrice": "700",
         "company": "Mono",
-        "color": "Green",
         "category": "Table",
         "id": 3
       },
@@ -44,7 +41,6 @@
         "prevPrice": "100",
         "newPrice": "150",
         "company": "Row",
-        "color": "Black",
         "category": "Chandelier",
         "id": 4
       },
@@ -56,7 +52,6 @@
         "prevPrice": "750",
         "newPrice": "800",
         "company": "Arcahorn",
-        "color": "Green",
         "category": "Blinds",
         "id": 5
       },
@@ -68,7 +63,6 @@
         "prevPrice": "670",
         "newPrice": "900",
         "company": "Dietiker",
-        "color": "Green",
         "category": "Closet",
         "id": 5
       }
