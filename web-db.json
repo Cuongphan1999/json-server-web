@@ -1,86 +1,185 @@
 {
-    "products": [
-      {
-        "img": "https://untree.co/demos/furni/images/product-3.png",
-        "title": "Nordic Tai Chair",
-        "star": 5,
-        "prevPrice": "200",
-        "newPrice": "243",
-        "company": "Ashley",
-        "category": "Chair",
-        "id": 1
+  "products": [
+    {
+      "img": "https://untree.co/demos/furni/images/product-3.png",
+      "title": "Nordic Tai Chair",
+      "star": 5,
+      "prevPrice": "200",
+      "newPrice": "243",
+      "company": "Ashley",
+      "category": "Chair",
+      "id": 1
+    },
+    {
+      "img": "https://untree.co/demos/furni/images/product-1.png",
+      "title": "Dressing Ate Table ",
+      "star": 2,
+      "prevPrice": "400",
+      "newPrice": "680",
+      "company": "Aaron",
+      "category": "Dress",
+      "id": 2
+    },
+    {
+      "img": "https://untree.co/demos/furni/images/product-2.png",
+      "title": "Kruzo Aero Table",
+      "star": 4,
+      "prevPrice": "650",
+      "newPrice": "700",
+      "company": "Mono",
+      "category": "Table",
+      "id": 3
+    },
+    {
+      "img": "https://ghevanphong.webmatrix.vn/wp-content/uploads/2019/06/1559014831timthumb-2.jpg",
+      "title": "Hakachi Chandelier",
+      "star": 5,
+      "prevPrice": "100",
+      "newPrice": "150",
+      "company": "Row",
+      "category": "Chandelier",
+      "id": 4
+    },
+    {
+      "img": "https://ghevanphong.webmatrix.vn/wp-content/uploads/2019/06/ghest1121.jpg",
+      "title": "kihata Blinds",
+      "star": 3,
+      "prevPrice": "750",
+      "newPrice": "800",
+      "company": "Arcahorn",
+      "category": "Blinds",
+      "id": 5
+    },
+    {
+      "img": "https://ghevanphong.webmatrix.vn/wp-content/uploads/2019/06/ghest119.jpg",
+      "title": "Decor chair closet",
+      "star": 4,
+      "prevPrice": "170",
+      "newPrice": "400",
+      "company": "Row",
+      "category": "Closet",
+      "id": 6
+    },
+    {
+      "img": "https://ghevanphong.webmatrix.vn/wp-content/uploads/2019/06/hoaphattq022.jpg",
+      "title": "Maka Chi Cet",
+      "star": 5,
+      "prevPrice": "340",
+      "newPrice": "600",
+      "company": "Dietiker",
+      "category": "Chandelier",
+      "id": 7
+    },
+    {
+      "img": "https://ghevanphong.webmatrix.vn/wp-content/uploads/2019/06/sp6.jpg",
+      "title": "Chan Stand",
+      "star": 4,
+      "prevPrice": "670",
+      "newPrice": "900",
+      "company": "Mono",
+      "category": "Table",
+      "id": 8
+    }
+  ],
+  "orderList": [
+    {
+      "cartInfo": {
+        "subTotal": 923,
+        "shipping": 0,
+        "total": null,
+        "status": "draft"
       },
-      {
-        "img": "https://untree.co/demos/furni/images/product-1.png",
-        "title": "Dressing Ate Table ",
-        "star": 2,
-        "prevPrice": "400",
-        "newPrice": "680",
-        "company": "Aaron",
-        "category": "Dress",
-        "id": 2
+      "cartDetails": {
+        "0": {
+          "img": "https://untree.co/demos/furni/images/product-3.png",
+          "title": "Nordic Tai Chair",
+          "star": 5,
+          "prevPrice": "200",
+          "newPrice": "243",
+          "company": "Ashley",
+          "category": "Chair",
+          "id": 1,
+          "quantity": 1,
+          "amount": "243"
+        },
+        "1": {
+          "img": "https://untree.co/demos/furni/images/product-1.png",
+          "title": "Dressing Ate Table ",
+          "star": 2,
+          "prevPrice": "400",
+          "newPrice": "680",
+          "company": "Aaron",
+          "category": "Dress",
+          "id": 2,
+          "quantity": 1,
+          "amount": "680"
+        }
       },
-      {
-        "img": "https://untree.co/demos/furni/images/product-2.png",
-        "title": "Kruzo Aero Table",
-        "star": 4,
-        "prevPrice": "650",
-        "newPrice": "700",
-        "company": "Mono",
-        "category": "Table",
-        "id": 3
+      "customerInfo": {
+        "fullname": "Tad Colon",
+        "email": "rosob@mailinator.com",
+        "mobile": "Iste aliquip est co",
+        "address": "Sed in ipsam digniss"
       },
-      {
-        "img": "https://ghevanphong.webmatrix.vn/wp-content/uploads/2019/06/1559014831timthumb-2.jpg",
-        "title": "Hakachi Oha Chandelier",
-        "star": 5,
-        "prevPrice": "100",
-        "newPrice": "150",
-        "company": "Row",
-        "category": "Chandelier",
-        "id": 4
+      "id": 1
+    },
+    {
+      "cartInfo": {
+        "subTotal": 486,
+        "shipping": 0,
+        "total": null,
+        "status": "draft"
       },
-      {
-        "img": "https://ghevanphong.webmatrix.vn/wp-content/uploads/2019/06/ghest1121.jpg",
-        "title": "kihata Blinds",
-        "star": 3,
-        "prevPrice": "750",
-        "newPrice": "800",
-        "company": "Arcahorn",
-        "category": "Blinds",
-        "id": 5
+      "cartDetails": {
+        "0": {
+          "img": "https://untree.co/demos/furni/images/product-3.png",
+          "title": "Nordic Tai Chair",
+          "star": 5,
+          "prevPrice": "200",
+          "newPrice": "243",
+          "company": "Ashley",
+          "category": "Chair",
+          "id": 1,
+          "quantity": 2,
+          "amount": 486
+        }
       },
-      {
-        "img": "https://ghevanphong.webmatrix.vn/wp-content/uploads/2019/06/ghest119.jpg",
-        "title": "Decor chair closet",
-        "star": 4,
-        "prevPrice": "170",
-        "newPrice": "400",
-        "company": "Row",
-        "category": "Closet",
-        "id": 6
+      "customerInfo": {
+        "fullname": "cuong phan",
+        "email": "gaxe@mailinator.com",
+        "mobile": "Sit asperiores nobi",
+        "address": "Ipsa dicta qui Nam "
       },
-      {
-        "img": "https://ghevanphong.webmatrix.vn/wp-content/uploads/2019/06/hoaphattq022.jpg",
-        "title": "Maka Chi Cet",
-        "star": 5,
-        "prevPrice": "340",
-        "newPrice": "600",
-        "company": "Dietiker",
-        "category": "Chandelier",
-        "id": 7
+      "id": 2
+    },
+    {
+      "cartInfo": {
+        "subTotal": 800,
+        "shipping": 0,
+        "total": null,
+        "status": "draft"
       },
-      {
-        "img": "https://ghevanphong.webmatrix.vn/wp-content/uploads/2019/06/sp6.jpg",
-        "title": "Chan Stand",
-        "star": 4,
-        "prevPrice": "670",
-        "newPrice": "900",
-        "company": "Mono",
-        "category": "Table",
-        "id": 8
-      }
-      
-    ]
-      
+      "cartDetails": {
+        "0": {
+          "img": "https://ghevanphong.webmatrix.vn/wp-content/uploads/2019/06/ghest1121.jpg",
+          "title": "kihata Blinds",
+          "star": 3,
+          "prevPrice": "750",
+          "newPrice": "800",
+          "company": "Arcahorn",
+          "category": "Blinds",
+          "id": 5,
+          "quantity": 1,
+          "amount": "800"
+        }
+      },
+      "customerInfo": {
+        "fullname": "Aimee Glenn",
+        "email": "tevasawum@mailinator.com",
+        "mobile": "Optio incididunt mi",
+        "address": "Porro sequi expedita"
+      },
+      "id": 3
+    }
+  ]
 }
